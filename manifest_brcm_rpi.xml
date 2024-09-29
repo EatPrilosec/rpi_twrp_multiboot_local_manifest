@@ -18,6 +18,6 @@
     <linkfile src="target" dest="build/target"/>
     <linkfile src="tools" dest="build/tools"/>
   </project>
-  <project path="system/core" name="twrp-raspberry/android_system_core" remote="github" revision="twrp-11" />
+  <project path="system/core" name="EatPrilosec/rpi_twrp_multboot_system_core" remote="github" revision="twrp-11" />
 
 </manifest>
